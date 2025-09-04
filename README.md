@@ -6,8 +6,20 @@
 
 🚀 Dreaming big: to become a world-class software engineer who builds solutions for Africa & beyond 🌍
 
-🔥 GitHub Status
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="165"> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </p>
+## 🔥 GitHub Status  
+
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165" />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
+</p>
+
+<p align="center">
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 🛠️ Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript,html,css,react,nodejs,express,mysql,mongodb,git,github,linux,vscode" /> </p>
 🌟 Featured Projects
