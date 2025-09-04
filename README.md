@@ -1,8 +1,9 @@
 👩‍💻 Hey there, I'm Eyerusalem! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 🎓 Software Engineering Student @ Addis Ababa Institute of Technology (AAiT)
+
 💡 Passionate about problem-solving, full-stack development & AI
-🌱 Currently learning React, Node.js, and modern software engineering practices
+
 🚀 Dreaming big: to become a world-class software engineer who builds solutions for Africa & beyond 🌍
 
 🔥 GitHub Status
@@ -15,15 +16,4 @@
 Stay tuned for exciting repositories... ✨
 
 📫 Connect With Me
-<p align="center"> <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> </p>
-⚡ Fun Facts
-
-🌸 I believe code is art 🎨
-
-🧩 I love solving coding challenges
-
-🎶 I often code while listening to music
-
-✈️ Dreaming of contributing to global open-source projects
-
-✨ “The best way to predict the future is to create it.” ✨
+<p align="center"> <a href="mailto:4u.aplus.tutor@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/eyerusalem-teklebrhan-671153335"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://github.com/Eyerusalem T"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> </p>
