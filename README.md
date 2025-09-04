@@ -21,7 +21,7 @@
   <img src="https://streak-stats.demolab.com?user=Eyerusalem T&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 🛠️ Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=django,java,python,javascript,typescript,html,css,react,nodejs,express,mysql,mongodb,git,github,linux,vscode" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=django,java,python,javascript,typescript,html,css,react,nodejs,express,mysql,mongodb,git,github,flutter,vscode" /> </p>
 🌟 Featured Projects
 
 🚧 I’m currently working on projects to showcase here! 🚧
